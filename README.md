@@ -1,1 +1,6 @@
-# Go proof of concept
+# Go
+## proof of concept
+
+![](gopher.jpg)
+
+Just some exercises
