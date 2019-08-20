@@ -1,6 +1,6 @@
 # Go
 ## proof of concept
 
-![](gopher.jpg)
+![](https://i.imgur.com/HZXKQug.jpg)
 
 Just some exercises
